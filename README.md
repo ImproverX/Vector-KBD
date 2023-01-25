@@ -1,7 +1,7 @@
 # Vector-KBD
 ### Keyboard for old PC Vector-06c
 
-This PCB is designed in Proteus 7 for use with ПКМ-1Б or Cherry MX (5pin) keys. The circuit and size corresponds to the keyboard of the PC "Вектор-06ц".
+This PCB is designed in Proteus 7 for use with ПКМ-1Б or Cherry MX (5pin) keys. The circuit and size of the board corresponds to the keyboard of the PC "Вектор-06ц".
 
 * [KBDVektorG.DSN](https://github.com/ImproverX/Vector-KBD/blob/main/KBDVektorG.DSN) -- circuit<br>
 * [KBDVektorG.LYT](https://github.com/ImproverX/Vector-KBD/blob/main/KBDVektorG.LYT) -- PCB layout<br>
