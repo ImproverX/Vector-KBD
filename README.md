@@ -18,7 +18,7 @@ This PCB is designed in Proteus 7 for use with ПКМ-1Б or Cherry MX (5pin) ke
 
 [More info (zx-pk.ru, russian)...](https://zx-pk.ru/threads/32280-miniklaviatura-dlya-vektora.html)
 
-### Examples of installing buttons with caps:<br>
+### Examples of installing keys with caps:<br>
 ![Pict](https://github.com/ImproverX/Vector-KBD/blob/main/Keyboard.jpg)
 ![Pict2](https://github.com/ImproverX/Vector-KBD/blob/main/Keys_1.jpg)
 ![Pict3](https://github.com/ImproverX/Vector-KBD/blob/main/Keys_2.jpg)
