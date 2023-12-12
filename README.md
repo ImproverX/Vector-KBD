@@ -7,6 +7,7 @@ This PCB is designed in Proteus 7 for use with ПКМ-1Б or Cherry MX (5pin) ke
 * [KBDVektorG.LYT](/KBDVektorG.LYT) -- PCB layout<br>
 * [KBDVektorG - CADCAM.ZIP](/KBDVektorG%20-%20CADCAM.ZIP) -- gerber file for production with white silkscreen printing (negative QR-code)
 * [KBDVektorGp - CADCAM.ZIP](/KBDVektorGp%20-%20CADCAM.ZIP) -- gerber file for production with black silkscreen printing
+* [KBD_labels_Cherry.pdf](/KBD_labels_Cherry.pdf) -- labels for Cherry-keycaps
 
 [More info (zx-pk.ru, russian)...](https://zx-pk.ru/threads/34006-replika-platy-gerkonovoj-klaviatury-vektora-(uluchshennaya).html)
 
@@ -14,7 +15,7 @@ This PCB is designed in Proteus 7 for use with ПКМ-1Б or Cherry MX (5pin) ke
 * [KBDVektor.DSN](/mini/KBDVektor.DSN) -- circuit<br>
 * [KBDVektor.LYT](/mini/KBDVektor.LYT) -- PCB layout<br>
 * [KBDVektor - CADCAM.ZIP](/mini/KBDVektor%20-%20CADCAM.ZIP) -- gerber file
-* [KBD_labels.pdf](n/mini/KBD_labels.pdf) -- labels for keycaps
+* [KBD_labels.pdf](/mini/KBD_labels.pdf) -- labels for keycaps
 
 [More info (zx-pk.ru, russian)...](https://zx-pk.ru/threads/32280-miniklaviatura-dlya-vektora.html)
 
