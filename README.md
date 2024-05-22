@@ -29,4 +29,7 @@ This PCB is designed in Proteus 7 for use with ПКМ-1Б or Cherry MX (5pin) ke
 ![Pict3](/Keys_2.jpg)
 
 Minikeyboard:<br>
-![Pict](/mini/IMG_20200928_173911%7E.jpg)
+![Pict4](/mini/IMG_20200928_173911%7E.jpg)<br>
+
+![Pict5](/kbd_circuit.png)
+
