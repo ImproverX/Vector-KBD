@@ -1,7 +1,7 @@
 # Vektor-KBD
-### Keyboard for old PC Vektor-06c
+### Keyboard for old PC
 
-This PCB is designed in Proteus 7 for use with ПКМ-1Б or Cherry MX (5pin) keys. The circuit and size of the board corresponds to the keyboard of the PC "Вектор-06ц".
+This PCB is designed in Proteus 7 for use with ПКМ-1Б or Cherry MX (5pin) keys. The circuit and size of the board corresponds to the keyboard of the USSR PC "Вектор-06ц" and "ПК-6128ц".
 
 * [KBDVektorG.DSN](/KBDVektorG.DSN) -- circuit<br>
 * [KBDVektorG.LYT](/KBDVektorG.LYT) -- PCB layout<br>
@@ -14,9 +14,18 @@ This PCB is designed in Proteus 7 for use with ПКМ-1Б or Cherry MX (5pin) ke
 [Installing the space bar with the Cherry key](https://zx-pk.ru/threads/34006-replika-platy-gerkonovoj-klaviatury-vektora-(uluchshennaya).html?p=1176336&viewfull=1#post1176336)<br>
 [More info (zx-pk.ru, russian)...](https://zx-pk.ru/threads/34006-replika-platy-gerkonovoj-klaviatury-vektora-(uluchshennaya).html)
 
-### Alternate minikeyboard, based on Omron B3F-1052 keys:<br>
-* [KBDVektor.DSN](/mini/KBDVektor.DSN) -- circuit<br>
-* [KBDVektor.LYT](/mini/KBDVektor.LYT) -- PCB layout<br>
+### MOD4
+
+Modification of the keyboard with diodes for each button. This PCB is designed for use only with Cherry MX (5pin) keys.<br>
+* [KBDVektorG4.DSN](/MOD4/KBDVektorG4.DSN) -- circuit<br>
+* [KBDVektorG4.LYT](/MOD4/KBDVektorG4.LYT) -- PCB layout<br>
+* [KBDVektorG4 - CADCAM.ZIP](/MOD4/KBDVektorG4%20-%20CADCAM.ZIP) -- gerber file for production PCB
+
+### MINI
+
+Alternate minikeyboard, based on Omron B3F-1052 keys:<br>
+* [KBDVektor.DSN](/mini/KBDVektor.DSN) -- circuit
+* [KBDVektor.LYT](/mini/KBDVektor.LYT) -- PCB layout
 * [KBDVektor - CADCAM.ZIP](/mini/KBDVektor%20-%20CADCAM.ZIP) -- gerber file
 * [KBD_labels.pdf](/mini/KBD_labels.pdf) -- labels for keycaps
 
