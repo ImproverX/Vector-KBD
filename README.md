@@ -20,6 +20,8 @@ Modification of the keyboard with diodes for each button. This PCB is designed f
 * [KBDVektorG4.DSN](/MOD4/KBDVektorG4.DSN) -- circuit<br>
 * [KBDVektorG4.LYT](/MOD4/KBDVektorG4.LYT) -- PCB layout<br>
 * [KBDVektorG4 - CADCAM.ZIP](/MOD4/KBDVektorG4%20-%20CADCAM.ZIP) -- gerber file for production PCB
+* [FrameG4_1.stl](/MOD4/FrameG4_1.stl), [FrameG4_1.stl](/MOD4/FrameG4_1.stl) -- 3D models of the keyboard frame for printing<br>
+* [SPACE_BAL.stl](/MOD4/SPACE_BAL.stl) -- Eyelet for the balance rod
 
 ### MINI
 
@@ -32,10 +34,10 @@ Alternate minikeyboard, based on Omron B3F-1052 keys:<br>
 [More info (zx-pk.ru, russian)...](https://zx-pk.ru/threads/32280-miniklaviatura-dlya-vektora.html)
 
 ### Examples of installing various keys with caps:<br>
-![Pict](/Keyboard_Cherry.jpg)
-![Pict1](/Keyboard.jpg)
-![Pict2](/Keys_1.jpg)
-![Pict3](/Keys_2.jpg)
+![Pict](/Photos/Keyboard_Cherry.jpg)
+![Pict1](/Photos/Keyboard.jpg)
+![Pict2](/Photos/Keys_1.jpg)
+![Pict3](/Photos/Keys_2.jpg)
 
 Minikeyboard:<br>
 ![Pict4](/mini/IMG_20200928_173911%7E.jpg)<br>
